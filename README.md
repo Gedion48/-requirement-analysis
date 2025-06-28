@@ -16,3 +16,23 @@ In this repository, we will:
 
 This serves as a foundational reference for students, developers, and project teams aiming to build better, user-aligned software.
 
+## 🔍 What is Requirement Analysis?
+
+**Requirement Analysis** is a crucial phase in the Software Development Life Cycle (SDLC) that involves identifying, gathering, and analyzing the needs and expectations of stakeholders for a proposed software system.
+
+It serves as the foundation upon which the entire project is built. By thoroughly understanding what users need and expect, development teams can avoid costly misunderstandings, scope creep, and software that fails to meet user demands.
+
+### 💡 Why is Requirement Analysis Important?
+
+1. **Clarity of Goals:** It ensures the development team and stakeholders have a shared understanding of what the software should do.
+2. **Reduces Errors:** Clear requirements help reduce ambiguity and misunderstandings that can lead to development errors.
+3. **Improved Planning:** Accurate requirements allow for better estimation of cost, time, and resources.
+4. **Better Design:** Knowing user needs helps in designing an intuitive and functional system.
+5. **Customer Satisfaction:** Meeting real user needs leads to a more useful and accepted product.
+
+### 📈 Where It Fits in the SDLC
+
+Requirement Analysis usually follows the project initiation phase and precedes system design. It forms the basis for creating design specifications, development plans, and test cases.
+
+> Without solid requirement analysis, projects are more likely to fail due to misaligned expectations, poor planning, or lack of stakeholder engagement.
+
