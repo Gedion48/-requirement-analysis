@@ -104,6 +104,8 @@ Non-functional requirements describe **how** the system performs certain operati
 Clearly distinguishing between these two types of requirements ensures that the system is not only functional but also reliable, efficient, and user-friendly.
 ## 🧩 Use Case Diagrams
 
+## 🧩 Use Case Diagrams
+
 ### 📘 What is a Use Case Diagram?
 
 A **Use Case Diagram** is a visual representation of the interactions between **actors** (users or external systems) and a system. It shows the **functional requirements** of the system in terms of how users engage with its various features.
@@ -128,14 +130,14 @@ Below is a use case diagram for a simplified **property booking system**, showin
 - **System**: Sends confirmations automatically.
 
 **Key Use Cases:**
-- Search Properties
-- View Property Details
-- Book Property
-- Make Payment
-- Manage Listings (Add, Edit, Delete)
-- View Bookings
+- Search Properties  
+- View Property Details  
+- Book Property  
+- Make Payment  
+- Manage Listings (Add, Edit, Delete)  
+- View Bookings  
 - Send Booking Confirmation
-## ✅ Acceptance Criteria
+
 
 ### 📘 What is Acceptance Criteria?
 
