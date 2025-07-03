@@ -122,7 +122,8 @@ A **Use Case Diagram** is a visual representation of the interactions between **
 
 Below is a use case diagram for a simplified **property booking system**, showing key interactions between different types of users and system functionality.
 
-![Use Case Diagram](alx-booking-uc.png)
+![use case png](https://github.com/user-attachments/assets/6c59ac39-c4a8-4a6c-a669-010fa2a43811)
+(alx-booking-uc.png)
 
 **Actors:**
 - **User**: Searches and books properties.
